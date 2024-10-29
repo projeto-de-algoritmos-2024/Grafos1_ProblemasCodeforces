@@ -21,7 +21,10 @@ Este projeto consta com 4 desafios resolvidos do codeforces, sendo eles:
 
 	**Pergunta:** Dado um gráfico de floco de neve, determine os valores de x e y.[link](https://codeforces.com/problemset/problem/1829/F) 
 
-+ **(Q2) Problema 129B - Students and Shoelaces:**  Anna e Maria gerenciam um clube de matemática, onde os alunos se comportam mal. Eles se amarraram com cadarços, criando conexões entre si. Cada cadarço liga dois alunos, e se um aluno está ligado a outro, eles estão ligados em ambas as direções. Para restaurar a ordem, Anna verifica quais alunos estão ligados a exatamente um outro aluno. Os alunos que estão assim ligados são repreendidos e agrupados por Maria, que os expulsa do clube, levando os cadarços com eles. Esse processo se repete até que não haja mais alunos que possam ser repreendidos. 
++ **(Q2) Problema 129B - Students and Shoelaces:**  Anna e Maria gerenciam um clube de matemática, onde os alunos se comportam mal. Eles se amarraram com cadarços, criando conexões entre si. 
+
+	Cada cadarço liga dois alunos, e se um aluno está ligado a outro, eles estão ligados em ambas as direções. Para restaurar a ordem, Anna verifica quais alunos estão ligados a exatamente um outro aluno. Os alunos que estão assim ligados são repreendidos e agrupados por Maria, que os expulsa do clube, levando os cadarços com eles. Esse processo se repete até que não haja mais alunos que possam ser repreendidos. 
+
 	**Pergunta:** Determine quantos grupos de alunos serão expulsos do clube durante esse processo.  [link](https://codeforces.com/problemset/problem/129/B)
 
 ## Soluções
