@@ -25,7 +25,19 @@ Este projeto consta com 4 desafios resolvidos do codeforces, sendo eles:
 
 	Cada cadarço liga dois alunos, e se um aluno está ligado a outro, eles estão ligados em ambas as direções. Para restaurar a ordem, Anna verifica quais alunos estão ligados a exatamente um outro aluno. Os alunos que estão assim ligados são repreendidos e agrupados por Maria, que os expulsa do clube, levando os cadarços com eles. Esse processo se repete até que não haja mais alunos que possam ser repreendidos. 
 
-	**Pergunta:** Determine quantos grupos de alunos serão expulsos do clube durante esse processo.  [link](https://codeforces.com/problemset/problem/129/B)
+	**Pergunta:** Determine quantos grupos de alunos serão expulsos do clube durante esse processo[link](https://codeforces.com/problemset/problem/129/B)
+
++ **(Q3) Problema 839C - Journey:**  
+
+	A questão pede para calcular o comprimento esperado da jornada de Theon e Yara Greyjoy, que começam na cidade 1 e viajam aleatoriamente para cidades conectadas que ainda não visitaram. O grafo das cidades é uma árvore com n cidades e n-1 estradas, e cada estrada tem comprimento 1. A jornada termina quando chegam a uma cidade sem novos caminhos
+
+	**Pergunta:** A tarefa é encontrar o valor esperado (média) do comprimento total da jornada[link](https://codeforces.com/problemset/problem/839/C)
+
++ **(Q4) Problema 977E - Cyclic Components:** 
+
+	Um grafo com **n** vertices e **m** arestas.
+
+	**Pergunta:** A tarefa é encontrar o número de componentes conectados que são ciclos.[link](https://codeforces.com/problemset/problem/977/E)
 
 ## Soluções
 * **Solução Q1:** [link]()
