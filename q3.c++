@@ -33,8 +33,9 @@ long double dfs(int v = 0, int p = -1) {
 
 int main() { _
     int n; cin >> n;
-	for(int v, u, i = 1; i < n; i++){
-		cin >> v >> u, v--, u--;
+
+	for(int i = 1; i < n; i++){
+		int v, u;cin >> v >> u, v--, u--;
 		g[v].push_back(u);
 		g[u].push_back(v);
 	}

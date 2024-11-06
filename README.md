@@ -39,11 +39,12 @@ Este projeto consta com 4 desafios resolvidos do codeforces, sendo eles:
 
 	**Pergunta:** A tarefa é encontrar o número de componentes conectados que são ciclos.[link](https://codeforces.com/problemset/problem/977/E)
 
-## Soluções
+## Vídeos
 * **Solução Q1:** [link]()
 * **Solução Q2:** [link]()
-* **Solução Q3:** [link]()
-* **Solução Q4:** [link]()
+* **Solução Q3:** [link](https://youtu.be/SLpecR-6Msc)
+* **Solução Q4:** [link](https://youtu.be/9n8d8XpJQ9g)
+  
 ## Instalação 
 **Linguagem**: C++<br>
 **Framework**: Não possui frameworks<br>

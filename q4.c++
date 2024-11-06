@@ -57,8 +57,7 @@ int main() { _
             j = 1;
 			aux.clear();
 			bfs(i);
-			for (auto v : aux)
-                if (gr[v] != 2) j = 0;
+			for (auto v : aux) if (gr[v] != 2) j = 0;
             
 			if(j) ans++;
 		}
