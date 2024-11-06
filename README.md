@@ -40,8 +40,8 @@ Este projeto consta com 4 desafios resolvidos do codeforces, sendo eles:
 	**Pergunta:** A tarefa é encontrar o número de componentes conectados que são ciclos.[link](https://codeforces.com/problemset/problem/977/E)
 
 ## Vídeos
-* **Solução Q1:** [link]()
-* **Solução Q2:** [link]()
+* **Solução Q1:** [link](https://youtu.be/LXxwx8w9kwA)
+* **Solução Q2:** [link](https://youtu.be/iHIgyb6aaPU)
 * **Solução Q3:** [link](https://youtu.be/SLpecR-6Msc)
 * **Solução Q4:** [link](https://youtu.be/9n8d8XpJQ9g)
   
@@ -82,10 +82,3 @@ Dessa forma será possível utilizar os casos de teste dos programas. Também é
 ``` bash
 cat <arquivo.txt> | ./main
 ```
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
-
-
